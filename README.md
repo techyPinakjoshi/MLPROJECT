@@ -17,5 +17,8 @@ Pandas for data manipulation, aggregation
 Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable
 NumPy for computationally efficient operations
 Scikit Learn for model training, model optimization, and metrics calculation
+
+**HEAT MAP to find relation**
+
 ![image](https://github.com/techyPinakjoshi/MLPROJECT/assets/149326429/b408d3e4-5515-4cd7-9ed6-a815c83e7d66)
 
